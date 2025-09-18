@@ -55,6 +55,18 @@
         освещение и напряжение
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <a href="screenshots/img1.png"><img src="screenshots/img5.png" width="300"/></a><br>
+        <b>Главное меню</b><br>
+        Настройка камеры и атмосфера
+      </td>
+      <td align="center">
+        <a href="screenshots/img2.png"><img src="screenshots/img6.png" width="300"/></a><br>
+        <b>Исследование этажа</b><br>
+        Темные помещения, головоломки
+      </td>
+    </tr>
   </table>
 </p>
 
