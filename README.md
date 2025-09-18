@@ -38,32 +38,32 @@
       </td>
       <td align="center">
         <a href="screenshots/img2.png"><img src="screenshots/img3.png" width="300"/></a><br>
-        <b>Исследование этажа</b><br>
-        Темные помещения, головоломки
+        <b>Параметры</b><br>
+        Настройка разрешения и звука.
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="screenshots/img3.png"><img src="screenshots/img2.png" width="300"/></a><br>
-        <b>Существо</b><br>
-        Видно только через камеру игрока
+        <b>Профиль</b><br>
+        Просмотр достижений.
       </td>
       <td align="center">
         <a href="screenshots/img4.png"><img src="screenshots/img4.png" width="300"/></a><br>
-        <b>Атмосферное</b><br>
-        освещение и напряжение
+        <b>Враги</b><br>
+        для усложеннной игры.
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="screenshots/img1.png"><img src="screenshots/img5.png" width="300"/></a><br>
-        <b>Главное меню</b><br>
-        Настройка камеры и атмосфера
+        <b>NPC</b><br>
+        для прохождения квестов.
       </td>
       <td align="center">
         <a href="screenshots/img2.png"><img src="screenshots/img6.png" width="300"/></a><br>
-        <b>Исследование этажа</b><br>
-        Темные помещения, головоломки
+        <b>Информация</b><br>
+        для игрока.
       </td>
     </tr>
   </table>
