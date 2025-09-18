@@ -35,35 +35,36 @@
       <td align="center">
         <a href="screenshots/img1.png"><img src="screenshots/img1.png" width="300"/></a><br>
         <b>Главное меню</b><br>
+        Начало игры и переход к разделам.
       </td>
       <td align="center">
         <a href="screenshots/img2.png"><img src="screenshots/img3.png" width="300"/></a><br>
-        <b>Параметры</b><br>
-        Настройка разрешения и звука.
+        <b>Настройки</b><br>
+        Изменение графики, разрешения и звука.
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="screenshots/img3.png"><img src="screenshots/img2.png" width="300"/></a><br>
-        <b>Профиль</b><br>
-        Просмотр достижений.
+        <b>Профиль игрока</b><br>
+        Отображение прогресса и достижений.
       </td>
       <td align="center">
         <a href="screenshots/img4.png"><img src="screenshots/img4.png" width="300"/></a><br>
         <b>Враги</b><br>
-        для усложеннной игры.
+        Препятствия и испытания на пути игрока.
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="screenshots/img1.png"><img src="screenshots/img5.png" width="300"/></a><br>
+        <a href="screenshots/img5.png"><img src="screenshots/img5.png" width="300"/></a><br>
         <b>NPC</b><br>
-        для прохождения квестов.
+        Персонажи для выполнения заданий.
       </td>
       <td align="center">
-        <a href="screenshots/img2.png"><img src="screenshots/img6.png" width="300"/></a><br>
-        <b>Информация</b><br>
-        для игрока.
+        <a href="screenshots/img6.png"><img src="screenshots/img6.png" width="300"/></a><br>
+        <b>Информационные панели</b><br>
+        Подсказки и важные данные для игрока.
       </td>
     </tr>
   </table>
