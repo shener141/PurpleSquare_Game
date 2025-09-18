@@ -35,12 +35,12 @@
       <td align="center">
         <a href="screenshots/img1.png"><img src="screenshots/img1.png" width="300"/></a><br>
         <b>Главное меню</b><br>
-        Начало игры и переход к разделам.
+        Начало игры.
       </td>
       <td align="center">
         <a href="screenshots/img2.png"><img src="screenshots/img3.png" width="300"/></a><br>
         <b>Настройки</b><br>
-        Изменение графики, разрешения и звука.
+        Изменение разрешения и звука.
       </td>
     </tr>
     <tr>
