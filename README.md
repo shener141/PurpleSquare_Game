@@ -29,8 +29,8 @@
 
 ## 📸 Скриншоты
 
-<p align="center">
-  <table>
+<p>
+  <table align="center">
     <tr>
       <td align="center">
         <a href="screenshots/img1.png"><img src="screenshots/img1.png" width="300"/></a><br>
