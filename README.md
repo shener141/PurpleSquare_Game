@@ -29,7 +29,7 @@
 
 ## 📸 Скриншоты
 
-<p align="center">
+<p>
   <table>
     <tr>
       <td align="center">
