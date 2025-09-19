@@ -73,7 +73,7 @@
 ---
 
 ## 🎥 Видео
-<p align="center">
+<p>
   <a href="screenshots/vid.mp4">Смотреть видео</a>
 </p>
 
