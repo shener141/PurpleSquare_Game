@@ -72,6 +72,14 @@
 
 ---
 
+## 🎥 Видео
+
+<p align="center">
+  <video src="screenshots/vid.mp4" width="600" controls></video>
+</p>
+
+---
+
 ## 🚀 Запуск
 1. Скачайте билд игры: [PurpleSquare — Download](https://drive.google.com/file/d/1b0ST1RdiukqaA5Vv0PHrRdaVVeA-alq5/view?usp=sharing)  
 2. Запустите `.exe` файл.
